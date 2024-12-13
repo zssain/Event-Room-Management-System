@@ -1,4 +1,4 @@
-# Event-Room-Management-System
+# Centralized Room Booking System for University Resource Management
 #### **Project Overview**
 This project is an **Event and Room Management System** designed to manage event lifecycles, room bookings, and user roles. The code implements core Object-Oriented Programming (OOP) principles to ensure scalability and maintainability.
 
