@@ -1,0 +1,36 @@
+Room Name,Type,Capacity,Location,Floor
+ECR 1,Classroom,120,Ecole Central School of Engineering,Ground Floor
+ECR 2,Classroom,120,Ecole Central School of Engineering,Ground Floor
+ECR 3,Classroom,60,Ecole Central School of Engineering,Ground Floor
+ECR 4,Classroom,120,Ecole Central School of Engineering,Ground Floor
+ECR 5,Classroom,120,Ecole Central School of Engineering,Ground Floor
+ECR 6,Classroom,60,Ecole Central School of Engineering,Ground Floor
+ELT 1,Lecture Hall,250,Ecole Central School of Engineering,Ground Floor
+ELT 2,Lecture Hall,250,Ecole Central School of Engineering,Ground Floor
+Courtyard Stage,Event Stage,N/A,Ecole Central School of Engineering Courtyard,Ground Floor
+APJ Abdul Kalam Auditorium,Auditorium,1100,Ecole Central School of Engineering,Ground Floor
+Convention Center,Convention Hall,600,Convention Center,Ground Floor
+SOL SOM Stage/Courtyard,Event Stage,N/A,School of Management and School of Law Courtyard,Ground Floor
+ECR 7,Classroom,120,Ecole Central School of Engineering,First Floor
+ECR 8,Classroom,60,Ecole Central School of Engineering,First Floor
+ECR 9,Classroom,120,Ecole Central School of Engineering,First Floor
+ECR 10,Classroom,60,Ecole Central School of Engineering,First Floor
+ECR 11,Classroom,120,Ecole Central School of Engineering,First Floor
+ECR 12,Classroom,60,Ecole Central School of Engineering,First Floor
+ECR 13,Classroom,120,Ecole Central School of Engineering,First Floor
+ECR 14,Classroom,60,Ecole Central School of Engineering,First Floor
+ECR 15,Classroom,120,Ecole Central School of Engineering,First Floor
+ECR 16,Classroom,120,Ecole Central School of Engineering,First Floor
+ETR 3,Tutorial Room,20,Ecole Central School of Engineering,First Floor
+ETR 4,Tutorial Room,20,Ecole Central School of Engineering,First Floor
+ETR 5,Tutorial Room,20,Ecole Central School of Engineering,First Floor
+ECR 17,Classroom,60,Ecole Central School of Engineering,Second Floor
+ECR 18,Classroom,60,Ecole Central School of Engineering,Second Floor
+ELT 3,Lecture Hall,350,Ecole Central School of Engineering,Second Floor
+ELT 4,Lecture Hall,350,Ecole Central School of Engineering,Second Floor
+ELT 5,Lecture Hall,200,Ecole Central School of Engineering,Second Floor
+ELT 6,Lecture Hall,200,Ecole Central School of Engineering,Second Floor
+ELT 7,Lecture Hall,200,Ecole Central School of Engineering,Second Floor
+ETR 6,Tutorial Room,20,Ecole Central School of Engineering,Second Floor
+ETR 7,Tutorial Room,20,Ecole Central School of Engineering,Second Floor
+ETR 8,Tutorial Room,20,Ecole Central School of Engineering,Second Floor
